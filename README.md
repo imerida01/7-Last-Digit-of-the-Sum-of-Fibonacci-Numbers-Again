@@ -1,2 +1,19 @@
-# 7-Last-Digit-of-the-Sum-of-Fibonacci-Numbers-Again
-Problem Description Task. Given two non-negative integers 𝑚 and 𝑛, where 𝑚 ≤ 𝑛, find the last digit of the sum 𝐹𝑚 + 𝐹𝑚+1 + · · · + 𝐹𝑛. Input Format. The input consists of two non-negative integers 𝑚 and 𝑛 separated by a space. Constraints. 0 ≤ 𝑚 ≤ 𝑛 ≤ 1014 . Output Format. Output the last digit of 𝐹𝑚 + 𝐹𝑚+1 + · · · + 𝐹𝑛. Sample 1. Input: 3 7 Output: 1 𝐹3 + 𝐹4 + 𝐹5 + 𝐹6 + 𝐹7 = 2 + 3 + 5 + 8 + 13 = 31
+# Last-Digit-of-the-Sum-of-Fibonacci-Numbers-Again
+
+## Problem Description 
+
+Task.: Given two non-negative integers 𝑚 and 𝑛, where 𝑚 ≤ 𝑛, find the last digit of the sum 𝐹𝑚 + 𝐹𝑚+1 + · · · + 𝐹𝑛. 
+
+Input Format.: The input consists of two non-negative integers 𝑚 and 𝑛 separated by a space. 
+
+Constraints.: 0 ≤ 𝑚 ≤ 𝑛 ≤ 1014 . 
+
+Output Format.: Output the last digit of 𝐹𝑚 + 𝐹𝑚+1 + · · · + 𝐹𝑛. 
+
+## Sample 1. 
+
+Input: 3 7 
+
+Output: 1 
+
+𝐹3 + 𝐹4 + 𝐹5 + 𝐹6 + 𝐹7 = 2 + 3 + 5 + 8 + 13 = 31
